@@ -1,0 +1,82 @@
+
+/* header section */
+header{
+    background-image: url(../images/Banner\ Image.png);
+    height: 600px;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    
+}
+.banner{ 
+    
+    text-align: center;
+    color: #FFFFFF;
+}
+.banner-title{
+    text-align: center;
+    font-size: 32px;
+}
+.banner-sub-title{
+    text-align: center;
+    font-size: 72px;
+}
+
+/* main section */
+/* section1 */
+.offer{
+    justify-content: center;
+    text-align: center;
+}
+.offer-title{
+    color: #FF0000;
+    font-size: 88px;
+}
+.offer-sub-title{
+    color: #FF0000;
+    font-size: 24px;
+    margin-top: 39px;
+}
+.offer-end-title{
+    color: #070211;
+    font-size: 48px;
+    margin-top: 16px;
+    margin-bottom: 47px;
+}
+/* section2 */
+.banner-2{
+    background-image: url(../images/Vectorrr.png);
+    height: 600px;
+    background-repeat: no-repeat; 
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    margin: 50px 0;
+    display: flex;
+    text-align: left;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.banner-2-title{
+    color: #FFFFFF;
+    font-size: 64px;
+    margin-top: 124px;
+}
+.banner-2-sub-title{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.banner-2-end-title{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-top: 48px;
+}
+.banner-2-img{
+    width: 319.83px;
+    height: 464.66px;
+    margin-top: 66.11px;
+}
